@@ -1,1 +1,1 @@
-npm i express mongoose cors helmet dotenv joi
+npm i express mongoose cors helmet dotenv joi bcryptjs
